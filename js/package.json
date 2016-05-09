@@ -1,0 +1,13 @@
+{
+  "name": "video-server",
+  "version": "0.1.0",
+  "description": "local file server with ftp-like interface",
+  "license": "MIT",
+  "author": {
+    "name": "Samba Fall",
+    "email": "sfall1@yahoo.com"
+  },
+  "dependencies": {
+    "react": "^15.0.2"
+  }
+}
