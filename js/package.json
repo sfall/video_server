@@ -8,6 +8,7 @@
     "email": "sfall1@yahoo.com"
   },
   "dependencies": {
-    "react": "^15.0.2"
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2"
   }
 }
